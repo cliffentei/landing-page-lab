@@ -1,0 +1,11 @@
+html{
+    background-color: rgb(165 , 134 , 134);
+}
+
+header{
+    background-color: rgb(233, 233, 233);
+    width: 1140px;
+    height: 230px;
+    text-align: center;
+    margin: 0px 150px;
+}
