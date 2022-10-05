@@ -2,10 +2,42 @@ html{
     background-color: rgb(165 , 134 , 134);
 }
 
+*{
+    margin: 0px;
+}
+
 header{
     background-color: rgb(233, 233, 233);
     width: 1140px;
     height: 230px;
     text-align: center;
     margin: 0px 150px;
+    font-family: Arial;
+    
+}
+
+
+.Title{
+    font-size: 50px;
+    padding-top: 40px;
+    margin-bottom: 10px;
+}
+
+.Date{
+    font-size:25px;
+    margin-top: 0px;
+}
+
+.List{
+    width:290px;
+    height: 711px;
+    margin-left: 150px;
+    background-color: rgb(100, 176, 167);
+    font-family: Arial;
+    font-weight: bold;
+}
+
+
+#white_letter{
+    color: white;
 }
